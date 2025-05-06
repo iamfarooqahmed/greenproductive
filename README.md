@@ -44,10 +44,8 @@ Once you're done, click on the finish button to get your daily achievement score
 ### Main contributors
 Nobody contributed yet ;(
 
-## Contact
-Joanne Andriamahandry
 
-[My Instagram](https://www.instagram.com/b.telgeuse/)
+[My Instagram](https://www.instagram.com/iamfarooqahmed)
 
 ## Acknowledgements
 Here are the resources that helped me build this project:
